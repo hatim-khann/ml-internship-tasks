@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.png
+*.jpg
+*.env
+venv/
+spam_env/
+mnist_env/
