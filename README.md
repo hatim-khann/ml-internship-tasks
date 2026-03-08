@@ -26,7 +26,7 @@ Technologies Used:
 
 Project Structure:
 
-email-spam-classifier/
+Email-Spam-Classifier/
 - app.py (Flask web application)
 - train_spam_model.py (training script)
 - run_spam.py (run trained model)
@@ -38,7 +38,7 @@ email-spam-classifier/
 
 ---
 
-### 2. MNIST Digit Recognizer
+### 2. MNIST Digit Recognition
 
 A deep learning model that recognizes handwritten digits using the famous MNIST dataset.
 
@@ -56,7 +56,7 @@ Technologies Used:
 
 Project Structure:
 
-mnist-digit-recognizer/
+Mnist-Digit-Recognition/
 - app.py (Flask web application)
 - train_mnist_digit.py (model training script)
 - run_mnist_digit.py (prediction script)
@@ -72,8 +72,8 @@ mnist-digit-recognizer/
 Clone the repository:
 
 ```bash
-git clone https://github.com/hatim-khann/ml-projects-collection.git
-cd ml-projects-collection
+git clone https://github.com/hatim-khann/ml-internship-tasks.git
+cd ml-internship-tasks
 ```
 
 ---
@@ -81,7 +81,7 @@ cd ml-projects-collection
 ## Run Email Spam Classifier
 
 ```bash
-cd email-spam-classifier
+cd Email-Spam-Classifier
 pip install -r requirements.txt
 python app.py
 ```
@@ -91,7 +91,7 @@ python app.py
 ## Run MNIST Digit Recognizer
 
 ```bash
-cd mnist-digit-recognizer
+cd Mnist-Digit-Recognition
 pip install -r requirements.txt
 python app.py
 ```
